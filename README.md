@@ -4,6 +4,9 @@
 
 https://database.nikonoel.fr/
 
+*Piece-Square Tables:*
+https://www.chessprogramming.org/Piece-Square_Tables
+
 *FEN Notation in Chess:*
 
 https://www.chess.com/terms/fen-chess
